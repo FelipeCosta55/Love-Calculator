@@ -11,3 +11,5 @@ Then check for the number of times the letters in the word LOVE occurs.
 Then combine these numbers to make a 2 digit number.
 
 It was used String Concatenation, .lower() function, .count() function, Data Types, If Statements and different messages based on Logical Operators and If Statements.
+
+The code is in main.py file. The other files can be ignored, they're just for IDE's console configuration.
